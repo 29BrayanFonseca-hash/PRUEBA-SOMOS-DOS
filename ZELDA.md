@@ -13,3 +13,6 @@ Para la creación del juego, Miyamoto se basó en sus experiencias infantiles; e
 
 #Imagen:
 ![ZELDA](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6z24081ohkGzDWAnrFiecck2bmxm7-izKcA&s)
+
+
+#Puntuacion: 10/10
