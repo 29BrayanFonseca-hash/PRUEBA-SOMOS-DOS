@@ -7,4 +7,4 @@
 - **Plataforma:** Xbox
 
 ##Descripción:
- Halo se refiere principalmente a la famosa franquicia de disparos en primera persona de ciencia ficción
+ Halo se refiere principalmente a la famosa franquicia de disparos en primera persona de ciencia ficción.
