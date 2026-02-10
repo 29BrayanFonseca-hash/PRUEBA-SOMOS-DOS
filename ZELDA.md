@@ -16,3 +16,5 @@ Para la creación del juego, Miyamoto se basó en sus experiencias infantiles; e
 
 
 #Puntuacion: 10/10
+
+![VOLVER_README](C:\Users\Coal\OneDrive\Escritorio\Catalogo Gamer\juegos\README.md)
