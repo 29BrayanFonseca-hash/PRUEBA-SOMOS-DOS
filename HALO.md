@@ -15,4 +15,4 @@
 
 ##Puntuacion: 10/10
 
-![VOLVER_README](C:\Users\Coal\OneDrive\Escritorio\Catalogo Gamer\juegos\README.md)
+![VOLVER_README](C:\Users\Coal\OneDrive\Escritorio\Catalogo Gamer\juegos\README.md).
