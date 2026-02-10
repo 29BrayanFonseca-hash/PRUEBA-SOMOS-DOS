@@ -15,6 +15,6 @@
  ![PACMAN](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCkuMluY1WHf1OI_z1QWhwQTHN6v2oMkCxqw&s)
 
 
- ##PUNTUACION: 10/10
+ ##PUNTUACION: 10/10.
 
  ![VOLVER_README](C:\Users\Coal\OneDrive\Escritorio\Catalogo Gamer\juegos\README.md)
