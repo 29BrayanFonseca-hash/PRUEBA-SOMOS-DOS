@@ -9,3 +9,7 @@
 
 #Descripción:
 Para la creación del juego, Miyamoto se basó en sus experiencias infantiles; estas, según él recuerda, consistían en que se aventuraba a lo largo de enormes campos y con frecuencia se perdía en bosques y cuevas.
+
+
+#Imagen:
+![ZELDA](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6z24081ohkGzDWAnrFiecck2bmxm7-izKcA&s)
